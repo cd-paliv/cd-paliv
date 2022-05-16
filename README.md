@@ -22,7 +22,7 @@
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-paliv&show_icons=true&locale=en&layout=compact&custom_title=Lenguajes más usados&theme=synthwave" alt="cd-paliv" /></p>
-  <img src="https://github.com/cd-paliv/cd-paliv/blob/output/github-contribution-grid-snake.gif"/>
+  <img src="https://github.com/cd-paliv/cd-paliv/blob/output/github-contribution-grid-snake.svg"/>
   <hr>
 </div>
   
