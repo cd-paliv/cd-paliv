@@ -22,8 +22,7 @@
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-paliv&show_icons=true&locale=en&layout=compact&custom_title=Lenguajes más usados&theme=synthwave" alt="cd-paliv" /></p>
-  <img src="https://raw.githubusercontent.com/indirivacua/indirivacua/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-  <img src="github contribution grid snake animation](https://raw.githubusercontent.com/indirivacua/indirivacua/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img src="https://github.com/cd-paliv/cd-paliv/blob/output/github-contribution-grid-snake.gif"/>
   <hr>
 </div>
   
