@@ -11,15 +11,11 @@
   <img height="40" align="center" alt="Erica-Bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-paliv&show_icons=true&locale=en&layout=compact&custom_title=Lenguajes más usados&theme=synthwave" alt="cd-paliv" /></p>
-
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cd-paliv&label=Views&color=426baa&style=flat" alt="cd-paliv" /> </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cd-paliv&label=Views&color=426baa&style=flat" alt="cd-paliv" /> </p>
