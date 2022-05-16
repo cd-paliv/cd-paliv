@@ -1,7 +1,8 @@
 <h1 align="left">Holi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="left">Soy Paula, tengo 21 años y soy estudiante en la Facultad de Informática, UNLP.</h3>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center">
+  <hr>
   <img height="40" align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -15,9 +16,15 @@
   <img height="40" align="center" alt="Erica-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" align="center" alt="dotnet" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/> </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-paliv&show_icons=true&locale=en&layout=compact&custom_title=Lenguajes más usados&theme=synthwave" alt="cd-paliv" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cd-paliv&label=Views&color=426baa&style=flat" alt="cd-paliv" /> </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-paliv&show_icons=true&locale=en&layout=compact&custom_title=Lenguajes más usados&theme=synthwave" alt="cd-paliv" /></p>
+  <img src="https://raw.githubusercontent.com/indirivacua/indirivacua/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="github contribution grid snake animation](https://raw.githubusercontent.com/indirivacua/indirivacua/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <hr>
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cd-paliv&label=Views&color=800080&style=flat" alt="cd-paliv" /> </p>
